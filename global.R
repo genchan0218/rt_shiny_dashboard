@@ -65,8 +65,11 @@ Invoice_data <- fread("Invoice_data.csv")
 
 ohm_data <- fread("Ohm_All_Installers_Kw_PC.csv")
 ohm_data_qtrly_avg <- fread("Ohm_All_Installers_Kw_PC_Qtrly.csv")
-ohm_data <- left_join(ohm_data, ohm_data_qtrly_avg)
+# Join on common keys to add quarterly averages
+ohm_data <- left_join(ohm_data, ohm_data_qtrly_avg,
+                       by = c("Contractor_Name", "State", "RT_POS_Customer"))
 ohm_data_qtrly_avg <- NULL
+setDT(ohm_data)
 
 contacts_data <- fread("Contact_List.csv")
 pos_data <- fread("POS_vs_Ohm.csv")
