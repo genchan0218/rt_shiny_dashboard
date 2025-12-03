@@ -77,6 +77,7 @@ server <- function(input, output, session) {
   # Automatically adjusts year selection when toggling between views
   # Monthly view: Optimized for recent data (1-2 years)
   # Quarterly view: Broader analysis (3 most recent years)
+  # Priority = 100: Ensures year update completes BEFORE table re-renders
   observeEvent(input$view_toggle, {
     if (!is.null(input$view_toggle)) {
       # Find most recent date in the data
@@ -106,7 +107,7 @@ server <- function(input, output, session) {
       # Update the year selectInput
       updateSelectizeInput(session, "year", selected = selected_years)
     }
-  }, ignoreInit = FALSE)
+  }, priority = 100, ignoreInit = TRUE)
 
   output$loggedinUI0 <- renderUI({
     req(credentials()$user_auth)
