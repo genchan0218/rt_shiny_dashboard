@@ -73,14 +73,12 @@ server <- function(input, output, session) {
     state_previous(current_selection)
   }, ignoreInit = TRUE, ignoreNULL = TRUE)
 
-  # OBSERVER: Smart Year Selection for Monthly View ----
-  # Automatically selects appropriate years when monthly view is toggled
-  # - Before July: Select 2 most recent years
-  # - July or after: Select only current year (based on most recent data date)
+  # OBSERVER: Smart Year Selection for Quarterly/Monthly Toggle ----
+  # Automatically adjusts year selection when toggling between views
+  # Monthly view: Optimized for recent data (1-2 years)
+  # Quarterly view: Broader analysis (3 most recent years)
   observeEvent(input$view_toggle, {
-    if (!is.null(input$view_toggle) && input$view_toggle == TRUE) {
-      # Monthly view activated - apply smart year filtering
-
+    if (!is.null(input$view_toggle)) {
       # Find most recent date in the data
       most_recent_date <- max(POS_Agg$Date, na.rm = TRUE)
       most_recent_month <- lubridate::month(most_recent_date)
@@ -89,13 +87,20 @@ server <- function(input, output, session) {
       # Get all available years
       all_years <- sort(unique(lubridate::year(POS_Agg$Monthly)), decreasing = TRUE)
 
-      # Select years based on month
-      if (most_recent_month < 7) {
-        # Before July: Select 2 most recent years
-        selected_years <- head(all_years, 2)
+      if (input$view_toggle == TRUE) {
+        # MONTHLY VIEW - Smart filtering for efficiency
+        # Select years based on month
+        if (most_recent_month < 7) {
+          # Before July: Select 2 most recent years
+          selected_years <- head(all_years, 2)
+        } else {
+          # July or after: Select only the most recent year
+          selected_years <- most_recent_year
+        }
       } else {
-        # July or after: Select only the most recent year
-        selected_years <- most_recent_year
+        # QUARTERLY VIEW - Broader trend analysis
+        # Select 3 most recent years for better quarterly comparison
+        selected_years <- head(all_years, 3)
       }
 
       # Update the year selectInput
