@@ -1,0 +1,38 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Shiny deployment configs (contains API keys)
+rsconnect/
+
+# Backup files
+*.bak
+*.backup
+*.bak2
+*_Back_Up.*
+*_Backup.*
+
+# Original package loading file (contains OAuth secrets)
+Genki_Must_Haves.R
+Genki_Must_Haves_Backup.R
+
+# Session files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Environment variables (if used later)
+.Renviron
+.env
+
+# Documentation that may contain sensitive notes
+SESSION_NOTES.md
+OPTIMIZATION_SUMMARY.md
+
+# Temporary files
+*.tmp
+*.temp

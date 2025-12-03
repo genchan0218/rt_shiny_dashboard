@@ -1,0 +1,360 @@
+﻿branch_id,branch_name,mail_address_1,mail_city,mail_state,mail_zip_code,mail_country
+6329,US - CA - San Diego - 7790 Convoy Court SAN DIEGO CA,7140 Opportunity Rd ,San Diego      ,CA,92111      ,US
+7659,COLUMBIA SC - EESCO,2500 LEAPHEART      ,West Columbia  ,SC,29169-4630 ,CN
+1794,RECO - INDIANAPOLIS,1560 Indiana Ave    ,Indianapolis   ,IN,46202      ,US
+7541,PHOENIX VAN BUREN,10209 W Roosevelt St,Avondale       ,AZ,85323      ,US
+1234,ORANGE CT,15 Executive Blvd   ,Orange         ,CT,06477      ,US
+7410,HARRISBURG PA,221 S 10th St       ,Lemoyne        ,PA,17043      ,US
+5798,WICHITA KS,1257 N Mosley St    ,Wichita        ,KS,67214      ,US
+2380,WINDSOR ON,3250 Electricity Dr ,Windsor        ,ON,N8W 5J1    ,CN
+1120,MANCHESTER UTILITY,12 Industrial Road  ,Milford        ,MA,01757      ,US
+1837,CSC - CINCINNATI OH,6860 Ashfield Dr    ,Blue Ash       ,OH,45242      ,US
+1913,C-B COLUMBUS OH,524 Suncrest Dr     ,Johnson City   ,TN,37615      ,US
+3705,BIRMINGHAM AL,125 32nd St S       ,Birmingham     ,AL,35233      ,US
+2125,SYDNEY NS,1120 Upper Prince St,Sydney         ,NS,B1P 5P6    ,CN
+5696,SHREVEPORT LA,1535 Wilkinson St   ,Shreveport     ,LA,71103      ,US
+6104,PORTLAND OR,2345 NW 31st Ave    ,Portland       ,OR,97210      ,US
+7458,BOISE ID,1395 S Teare Ave    ,Meridian       ,ID,83642      ,US
+7574,US - NY - Woodside,30-30 60th St       ,Woodside       ,NY,11377      ,US
+7670,AURORA OH,1255 Danner Dr      ,Aurora         ,OH,44202      ,US
+3905,C-B MILWAUKEE WI,N173 W21490 Northwes,Jackson        ,WI,53037      ,US
+2680,PRINCE GEORGE BC,2223 Nicholson St N ,Prince George  ,BC,V2N 1V9    ,CN
+5792,US - TX - Lubbock - 520 34th Street,520 34th St         ,Lubbock        ,TX,79404      ,US
+2370,LONDON ON,554 First St        ,London         ,ON,N5V 1Z3    ,CN
+7446,MARSHFIELD WI,1601 S Laemle Ave   ,Marshfield     ,WI,54449      ,US
+7420,KNOXVILLE TN,112 Sherlake Rd     ,Knoxville      ,TN,37922      ,US
+7430,TAMPA FL,501 Ave R SW        ,Winter Haven   ,FL,33880      ,US
+7575,LAFAYETTE LA - STATEWIDE,200 Matrix Loop     ,Lafayette      ,LA,70507      ,US
+7677,US - NV - Las Vegas - 2875 North Lamb Boulevard,2875 N Lamb Blvd    ,Las Vegas      ,NV,89115      ,US
+7205,INTERNATIONAL SERVICE CENTER - ISC,7049 Brookhollow W D,Houston        ,TX,77040      ,US
+7312,NATIONAL BRANCH - ATLANTA,2935 Shawnee Industr,Suwanee        ,GA,30024      ,US
+7815,KVA - DENVER CO,11198 E 45th Ave    ,Denver         ,CO,80239      ,US
+3715,HUNTSVILLE AL,6511 Fed Ex Way     ,Madison        ,AL,35756      ,US
+2750,QUEBEC CITY PQ,255 Rue Fortin      ,Quebec         ,QC,G1M 3M2    ,CN
+1561,US - MD - Gaithersburg BALTIMORE MD,602 E Diamond Ave   ,Gaithersburg   ,MD,20877      ,US
+7306,"NATIONAL BRANCH - DALLAS, TX",9400 N Royal Ln     ,Irving         ,TX,75063      ,US
+1879,CSC AUSTIN TX,4801 Freidrich Ln   ,Austin         ,TX,78744      ,US
+7435,ARLINGTON TX,4030 Express St     ,Arlington      ,TX,76001      ,US
+7654,VIRGINIA MN,5554 Enterprise Dr N,Virginia       ,MN,55792      ,US
+1546,HARRISBURG PA,221A S 10th St      ,Lemoyne        ,PA,17043      ,US
+1938,C-B BYHALIA DC OPERATIONS,7300 West Highway 17,Byhalia        ,MS,38611      ,US
+1916,C-B PHILADELPHIA PA,12 Penns Trail      ,Newtown        ,PA,18940      ,US
+1963,"CSC BOSTON, MA",15 Constitution Way ,Woburn         ,MA,01801      ,US
+5830,CEDAR RAPIDS IA,725 33rd Ave SW     ,Cedar Rapids   ,IA,52404      ,US
+2115,DARTMOUTH NS,54 Higney Ave       ,Dartmouth      ,NS,B3B 0N8    ,CN
+7393,"DIST CTR ELIM - ATLANTA, GA",2935 Shawnee Industr,Suwanee        ,GA,30024      ,US
+7623,KOKOMO IN,716 Belvedere Dr    ,Kokomo         ,IN,46901      ,US
+5692,LONGVIEW TX,337 W Cotton St     ,Longview       ,TX,75601      ,US
+2375,SARNIA ON,567 Vidal St S      ,Sarnia         ,ON,N7T 2V8    ,CN
+1980,"CSC JACKSONVILLE, FL",6500 Bowden Rd      ,Jacksonville   ,FL,32216      ,US
+6672,GILLETTE WY,2 Winland Ct        ,Gillette       ,WY,82718      ,US
+7852,FARGO ND,2650 7th Ave N      ,Fargo          ,ND,58102      ,US
+2765,SEPT. ILES PQ,253 Jolliet Ave     ,Sept-Iles      ,QC,G4R 2A8    ,CN
+7897,GS_DALLESPORT WA,100 E DOW Road      ,Dallesport     ,WA,98617      ,US
+7645,JACKSON MI - EESCO,1610 E High St      ,Jackson        ,MI,49203      ,US
+6110,KENNEWICK WA,6949 W Deschutes Ave,Kennewick      ,WA,99336      ,US
+1975,"CSC SEATTLE, WA",951 Monster Rd      ,Renton         ,WA,98057      ,US
+7866,KANSAS CITY UTILITY,22614 W 167th St    ,Olathe         ,KS,66062      ,US
+7662,"CHARLESTON, SC",4567 Piggly Wiggly R,North Charlesto,SC,29405      ,US
+7684,AUGUSTA GA - ACE,1703 Marvin Griffin ,Augusta        ,GA,30906      ,US
+3426,CLEVELAND OH,4741 Hinckley Indust,Cleveland      ,OH,44109      ,US
+2610,BURNABY BC,6000 Lougheed Hwy   ,Burnaby        ,BC,V5B 4V6    ,CN
+2510,EDMONTON AB,18207 111th Ave     ,Edmonton       ,AB,T5S 2P2    ,CN
+7611,US - ME - Portland,327 Marginal Way    ,Portland       ,ME,04101      ,US
+3735,NASHVILLE TN,1400 Fort Negley Blv,Nashville      ,TN,37203      ,US
+1341,US - NY - Watertown,465 Newell St       ,Watertown      ,NY,13601      ,US
+7676,JACKSONVILLE FL - ACE,5875 Highway Ave    ,Jacksonville   ,FL,32254      ,US
+1062,CHARLOTTE NC - DUKE,5521 Lakeview Rd    ,Charlotte      ,NC,28269      ,US
+5454,IRON MOUNTAIN MI,630 E Blvd          ,Iron Mountain  ,MI,49802      ,US
+1964,"CSC ATLANTA, GA",700 Sigman Rd NE    ,Conyers        ,GA,30013      ,US
+2589,STONE EAGLE - SASKATOON (WESNET),3911 Millar Ave     ,Saskatoon      ,SK,S7P 0C1    ,CN
+1064,REDMOND OR,2345 NW 31st Ave    ,Portland       ,OR,97210-2033 ,CN
+1765,ROANOKE VA,1255 Trapper Cir NW ,Roanoke        ,VA,24012      ,US
+7305,DIST CTR - SPARKS NV,1161 E Glendale Ave ,Sparks         ,NV,89431      ,US
+7884,RALEIGH NC,334 Atkinson St     ,Clayton        ,NC,27520      ,US
+7539,"US - AZ - Phoenix - 3425 E. Van Buren Street PHOENIX, AZ",3425 E Van Buren    ,Phoenix        ,AZ,85008      ,US
+1983,US - OH - Cleveland - 17909 Cleveland Parkway,17909 Cleveland Pkwy,Cleveland      ,OH,44135      ,US
+2625,SURREY BC,201- 12844 Anvil Way,Surrey         ,BC,V3W 8E7    ,CN
+7559,"PASCAGOULA, MS",2835 Andrews St     ,Pascagoula     ,MS,39567      ,US
+7758,WESCO EXPRESS BRANCH,780 Commonwealth Dr ,Warrendale     ,PA,15086      ,US
+5794,HOBBS NM,2110 W Bender       ,Hobbs          ,NM,88240      ,US
+7397,DIST CTR ELIM - CHICAGO,200 E Lies Rd       ,Carol Stream   ,IL,60188      ,US
+5444,SPRINGDALE AR,1210 E.S.I. Dr      ,Springdale     ,AR,72764      ,US
+1844,CSC - OKLAHOMA CITY OK,500 N Pennsylvania A,Oklahoma City  ,OK,73107      ,US
+5565,CLUTE TX,447 E Plantation Dr ,Clute          ,TX,77531      ,US
+7395,DIST CTR ELIM - SPARKS NV,1161 E Glendale Ave ,Sparks         ,NV,89431      ,US
+2640,VICTORIA BC,481 Cecelia Rd      ,Victoria       ,BC,V8T 4T4    ,CN
+2620,ABBOTSFORD BC,Unit 100            ,Abbotsford     ,BC,V2S 2E8    ,CN
+1040,US - Arizona PVC Distribution,2718 Jannetides Blvd,Greenfield     ,IN,46140      ,US
+1051,US - ND - Fargo - Construction,2650 7th Ave N      ,Fargo          ,ND,58102      ,US
+1049,US - TX - Houston - Construction,7049 Brookhollow Wes,Houston        ,TX,77040      ,US
+2760,RIMOUSKI PQ,169 Rue Du Havre    ,Rimouski       ,QC,G5L 7M9    ,CN
+6218,US - CA - Santa Clara,2800 Mead Ave       ,Santa Clara    ,CA,95051      ,US
+7422,BEAR CREEK AL,7643 State Hwy 13   ,Bear Creek     ,AL,35543      ,US
+7307,NATIONAL BRANCH SPARKS,1161 E Glendale Ave ,Sparks         ,NV,89431      ,US
+7814,"HUNTSVILLE, ALABAMA",1239 Putman Dr NW   ,Huntsville     ,AL,35816      ,US
+1957,"CSC FT. LAUDERDALE, FL",3470 NW 53rd St     ,Fort Lauderdale,FL,33309      ,US
+3560,ALBANY GA,724 Pine Ave        ,Albany         ,GA,31701      ,US
+6705,LOS ANGELES CA,6251 Knott Ave      ,Buena Park     ,CA,90620      ,US
+3620,US - Construction Carolinas,840 Riverside Dr    ,Asheville      ,NC,28804      ,US
+1956,"CSC CAROL STREAM, IL",200 E Lies Rd       ,Carol Stream   ,IL,60188      ,US
+1977,CSC WASHINGTON DC,602 E Diamond Ave   ,Gaithersburg   ,MD,20877      ,US
+2455,ESTEVAN,475 Hood Rd         ,Markham        ,ON,L3R 0S8    ,CN
+7879,DALEVILLE IN - PUBLIC POWER,9175 South Innovatio,Daleville      ,IN,47334      ,US
+7552,"REILY - BATON ROUGE, LA",11435 Reiger Rd     ,Baton Rouge    ,LA,70809      ,US
+1026,US - TX - Hill Country Solar - Austin Tx,4801 Freidrich Ln   ,Austin         ,TX,78744      ,US
+1927,C-B ST LOUIS MO,2820 Market St      ,Saint Louis    ,MO,63103      ,US
+7660,FLORENCE SC - EESCO,1811 Wall St        ,Florence       ,SC,29501      ,US
+1939,CBC CONTACT CENTER LITTLE ROCK,3600 W 69th St      ,Little Rock    ,AR,72209      ,US
+6668,BILLINGS MT,1211 S 27th St W    ,Billings       ,MT,59102      ,US
+3580,SAVANNAH GA,25-F Telfair Pl     ,Savannah       ,GA,31415      ,US
+6103,US - WA - Spokane,111 N. Haven Street ,Spokane        ,WA,99202      ,US
+6707,BAKERSFIELD CA,3233 Rio Mirada Dr  ,Bakersfield    ,CA,93308      ,US
+1918,C-B MEMPHIS,7300 W Highway 178  ,Byhalia        ,MS,38611      ,US
+5235,LOUISVILLE KY,3419 Bashford Ave Ct,Louisville     ,KY,40218      ,US
+3405,CINCINNATI OH,6860 Ashfield Dr    ,Blue Ash       ,OH,45242      ,US
+1984,CALVERT - CANTON OH,5995 Mayfair Rd     ,North Canton   ,OH,44720      ,US
+1968,"CSC RALEIGH, NC",2205 Westinghouse Bl,Raleigh        ,NC,27604      ,US
+5808,PEORIA IL,915 NE Adams St     ,Peoria         ,IL,61603      ,US
+2410,WINNIPEG MB,1099 King Edward St ,Winnipeg       ,MB,R3H 0R3    ,CN
+3255,US - MI - Lansing,3440 Dunkel Rd      ,Lansing        ,MI,48911      ,US
+7819,KNOXVILLE TN,427 Park Village Rd ,Knoxville      ,TN,37923      ,US
+7553,"REILY - LAFAYETTE, LA",200 Matrix Loop     ,Lafayette      ,LA,70507      ,US
+7551,"REILY - METAIRIE, LA",3011 Lausat St      ,Metairie       ,LA,70001      ,US
+7638,BRADLEY IL - EESCO,285 N Industrial Dr ,Bradley        ,IL,60915      ,US
+1944,C-B MEMPHIS - TN LM SALES,4477 Winchester Rd  ,Memphis        ,TN,38118      ,US
+7891,AMARILLO TX - UTILITY,513 N Nelson        ,Amarillo       ,TX,79107      ,US
+5439,US - NE - Grand Island,1814 Holland Dr     ,Grand Island   ,NE,68803      ,US
+2616,RICHMOND BC,3331 Viking Way     ,Richmond       ,BC,V6V 1X7    ,CN
+7400,WESCO EXPRESS ECOINSIGHT,185 Thorn Hill Road ,Warrendale     ,PA,15086      ,US
+2815,MISSISSAUGA ON,6170 Belgrave Rd    ,Mississauga    ,ON,L5R 4G8    ,CN
+1856,UTILITY COMMUNICATIONS,600 Plum Creek Dr   ,Wadsworth      ,OH,44281      ,US
+7526,"US - FL - FLORIDA SOLAR, ORLANDO FL",3881 Old Winter Gard,Orlando        ,FL,32805-1002 ,CN
+1976,"CSC NORFOLK, VA",909 Ventures Way    ,Chesapeake     ,VA,23320      ,US
+1763,RICHMOND VA,2902 N Blvd         ,Richmond       ,VA,23230      ,US
+1970,"CSC ALBUQUERQUE, NM",5950 Office Blvd NE ,Albuquerque    ,NM,87109      ,US
+2755,CHICOUTIMI PQ,1190 Rue Manic      ,Chicoutimi     ,QC,G7K 1A2    ,CN
+6715,VENTURA CA,3382 N Ventura Ave  ,Ventura        ,CA,93001      ,US
+3624,SE OEM VIRTUAL,5521 Lakeview Dr    ,Charlotte      ,NC,28269      ,US
+7845,WESCO MACON GA UTILITY,225 W Station Square,Pittsburgh     ,PA,15219      ,US
+7206,PITTSBURGH INTERNATIONAL,780 Commonwealth Dr ,Warrendale     ,PA,15086      ,US
+7646,ADRIAN MI - EESCO,125 Tecumseh St     ,Adrian         ,MI,49221      ,US
+6228,ELKO NV,1150 Connolly Dr    ,Elko           ,NV,89801      ,US
+7998,US - TX - AMARILLO - EES,513 N Nelson        ,Amarillo       ,TX,79107      ,US
+2120,ST JOHN'S NF,"95 O'Leary Ave, Box ",St. John's     ,NL,A1B 2C9    ,CN
+3540,KINGSPORT TN,1328F S John B. Denn,Kingsport      ,TN,37660      ,US
+7861,TVA-UTILITY INTEGRATED SUPPLY,1410 Fort Negley Blv,Nashville      ,TN,37203      ,US
+5438,LINCOLN NE,3100 N 33rd St      ,Lincoln        ,NE,68504      ,US
+6113,"POTELCOM, ALASKA",1125 Orca St        ,Anchorage      ,AK,99501      ,US
+1338,BINGHAMTON NY,424 Commerce Rd     ,Vestal         ,NY,13850      ,US
+5689,DALLAS DC,9400 N Royal Ln     ,Irving         ,TX,75063      ,US
+7673,HIGH VOLTAGE REGION PROJECTS,1245 Danner Dr      ,Aurora         ,OH,44202      ,US
+6709,FELLOWS CA,26407 Hwy 33        ,Fellows        ,CA,93224      ,US
+2570,RED DEER AB,7743 50th Ave       ,Red Deer       ,AB,T4P 1M7    ,CN
+1935,C-B MCALLEN,601 E Cedar         ,Mcallen        ,TX,78501      ,US
+5114,MILWAUKEE WI,5475 S Westridge Ct ,New Berlin     ,WI,53151      ,US
+5845,MEMPHIS TN,7300 W Highway 178  ,Byhalia        ,MS,38611      ,US
+2550,CALGARY AB,11195 42 St SE      ,Calgary        ,AB,T2C 0J9    ,CN
+7641,US - WI - Green Bay,2740 S Ashland Ave  ,Green Bay      ,WI,54304      ,US
+7639,CHAMPAIGN IL,909 N Country Fair D,Champaign      ,IL,61821      ,US
+6217,US - CA - Fresno,3712 W Gettysburg Av,Fresno         ,CA,93722      ,US
+3375,US - PA - Warrendale PITTSBURGH PA,185 Thorn Hill Rd   ,Warrendale     ,PA,15086      ,US
+3365,MURRYSVILLE PA,5201 Triangle Lane  ,Export         ,PA,15632      ,US
+1831,"CSC KANSAS CITY, KS",2301 E Truman Rd    ,Kansas City    ,MO,64127      ,US
+3229,US - MI - Midland,2400 Schuette Rd    ,Midland        ,MI,48642      ,US
+3640,GREENVILLE SC,706A Garlington Rd  ,Greenville     ,SC,29615      ,US
+1764,NORFOLK VA,1270 Bolton St      ,Norfolk        ,VA,23504      ,US
+6503,US - HI - Hilo,10 Kukila St        ,Hilo           ,HI,96720      ,US
+3842,TOLA OEM VIRTUAL,31478 Industrial Rd ,Livonia        ,MI,48150      ,US
+6642,BUTTE MT,949 S Montana St    ,Butte          ,MT,59701      ,US
+2520,FT MCMURRAY AB,385 Mackenzie Blvd  ,Fort McMurray  ,AB,T9H 5E2    ,CN
+2690,FORT ST. JOHN BC,11425 Alaska Rd     ,Fort St John   ,BC,V1J 6N2    ,CN
+7697,UTILITY - TULSA OK,13047 E 59th St     ,Tulsa          ,OK,74134      ,US
+3226,DETROIT CONSTRUCTION,33162 Sterling Ponds,Sterling Height,MI,48312      ,US
+1447,US - PA - Norristown,2505 Blvd of the Gen,Norristown     ,PA,19403      ,US
+7606,US - IL - NW INDIANA CONSTRUCTION,200 E Lies Rd       ,Carol Stream   ,IL,60188      ,US
+7889,GS_AMARILLO TX,1403 S Cherry Ln    ,White Settlemen,TX,76108      ,US
+1791,RECO - LOUISVILLE,3419 Bashford Ave Ct,Louisville     ,KY,40218      ,US
+1905,C-B CHICAGO,N173 W21490 Northwes,Jackson        ,WI,53037      ,US
+7545,US - NY - Hauppauge,500 Prime Pl        ,Hauppauge      ,NY,11788      ,US
+7848,ORLANDO FL - UTILITY,5971 Pershing Ave   ,Orlando        ,FL,32822      ,US
+1115,CONSTRUCTION NEW ENGLAND,35 Otis St          ,Westboro       ,MA,01581      ,US
+5687,US - TX - Irving - 9400 Royal Lane DALLAS TX,9400 N Royal Ln     ,Irving         ,TX,75063      ,US
+7692,AUSTIN TX - PSI,2003 Rutland Dr     ,Austin         ,TX,78758      ,US
+6440,POCATELLO ID,2815 Garrett Way    ,Pocatello      ,ID,83201      ,US
+3570,US - Construction Georgia/AL,724 Pine Ave        ,Albany         ,GA,31701      ,US
+2210,MONTREAL QC,130 boul. Brunswick ,Pointe-Claire  ,QC,H9R 5P9    ,CN
+5571,DEER PARK TX,1105 Howard Dr      ,Deer Park      ,TX,77536      ,US
+3916,RS ELEC. - LIVONIA - AUTO,34178 Industrial Rd ,Livonia        ,MI,48150      ,US
+7802,"SOUTH BRUNSWICK, NJ",151 Herrod Blvd     ,Dayton         ,NJ,08810      ,US
+7498,M/S GROUP IMPORT DIST CENTER,353 N 44th Ave      ,Phoenix        ,AZ,85043      ,US
+6112,KENAI AK,53912 Commerce Ave  ,Kenai          ,AK,99611      ,US
+2588,STONE EAGLE (WESNET),385 Mackenzie Blvd  ,Fort McMurray  ,AB,T9H 5E2    ,CN
+7858,GREENFIELD IN - DUKE,2718 Jannetides Blvd,Greenfield     ,IN,46140      ,US
+1339,ROCHESTER NY,1525 Mt Read Blvd   ,Rochester      ,NY,14606      ,US
+2665,KAMLOOPS BC,1802 Versatile DR   ,Kamloops       ,BC,V1S 1S2    ,CN
+7696,DESCO - NORTH LITTLE ROCK AR,2000 E Washington Av,North Little Ro,AR,72114      ,US
+1915,C-B JOHNSON CITY TN,524 Suncrest Dr     ,Johnson City   ,TN,37615      ,US
+1958,"CSC DENVER, CO",11198 E 45th Ave    ,Denver         ,CO,80239      ,US
+7302,DIST CTR - WARRENDALE PA,185 Thorn Hill Rd   ,Warrendale     ,PA,15086      ,US
+2685,"KITIMAT, BC",721-ENTRPISE AVENUE ,Kitimat        ,BC,V8C 2E7    ,CN
+1917,C-B KANSAS CITY,10814 W 78th St     ,Shawnee        ,KS,66214      ,US
+6711,KERN RIVER CA,3900 Monte Cristo Rd,Bakersfield    ,CA,93308      ,US
+7896,"WESTMINSTER, CA - SCE",7300 W Hazard Ave   ,Westminster    ,CA,92683      ,US
+6501,HONOLULU HI,1030 Mapunapuna St  ,Honolulu       ,HI,96819      ,US
+1851,CSC SAN DIEGO CA,7790 Convoy Ct      ,San Diego      ,CA,92111      ,US
+6101,US - WA - Kent,951 Monster Rd      ,Renton         ,WA,98057      ,US
+3240,GRAND RAPIDS MI,7650 Caterpillar Dr ,Grand Rapids   ,MI,49548      ,US
+7850,TODDVILLE NC - DUKE ENERGY,610 Toddville Rd    ,Charlotte      ,NC,28214      ,US
+7450,WILSONVILLE OR,9125 SW Ridder Rd   ,Wilsonville    ,OR,97070      ,US
+6662,PUEBLO CO,115 S Main St       ,Pueblo         ,CO,81003      ,US
+7883,PORTLAND OR,2341 NW 31st Ave    ,Portland       ,OR,97210      ,US
+6441,US - ID - Boise - 5480 Irving Street,5480 Irving St      ,Boise          ,ID,83706      ,US
+1974,"CSC HOUSTON, TX",7049 Brookhollow W D,Houston        ,TX,77040      ,US
+7303,"DIST CTR - ATLANTA, GA",2935 Shawnee Industr,Suwanee        ,GA,30024      ,US
+1934,C-B HOUSTON,"7400 Security Way, S",Jersey Village ,TX,77040      ,US
+7849,COLUMBIA SC,225 Old Wire Rd     ,West Columbia  ,SC,29172      ,US
+1929,CBC LCOMP LITTLE ROCK,3600 W 69th St      ,Little Rock    ,AR,72209      ,US
+1772,LYNCHBURG VA,105 Industrial Dr   ,Lynchburg      ,VA,24501      ,US
+6502,MAUI HI,411 Lehuakona St    ,Kahului        ,HI,96732      ,US
+3915,RS ELEC. - DETROIT MI,31478 Industrial Rd ,Livonia        ,MI,48150      ,US
+7881,SAN ANTONIO TX - UTILITY,4410 Dividend Dr    ,San Antonio    ,TX,78219      ,US
+7657,MACON GA - EESCO,1041 Airport South D,Macon          ,GA,31216      ,US
+7871,W.I.S.DUKE ENERGY CHARLOTTE NC,"5521 Lakeview Dr, St",Charlotte      ,NC,28269â€¬   ,CN
+7855,DES MOINES IA,2301 Fleur Dr       ,Des Moines     ,IA,50321      ,US
+7228,GULF CAPITAL PROJECTS,7049 Brookhollow W D,Houston        ,TX,77040      ,US
+7587,"RALEIGH, NC",2205 Westinghouse Bl,Raleigh        ,NC,27604      ,US
+2145,MONCTON NB,400 Edinburgh Dr    ,Moncton        ,NB,E1E 2L1    ,CN
+3635,NE OEM VIRTUAL,840 Riverside Dr    ,Asheville      ,NC,28804      ,US
+7628,WOODRIDGE IL - EESCO,2401 Internationale ,Woodridge      ,IL,60517      ,US
+2525,NISKU AB,2319 9th St         ,Nisku          ,AB,T9E 7Z7    ,CN
+6105,EUGENE OR,1939 W 2nd Ave      ,Eugene         ,OR,97402      ,US
+1925,C-B SHREVEPORT,9211 Slack Rd       ,Shreveport     ,LA,71106      ,US
+1768,HAMPTON VA,418 Aberdeen Rd     ,Hampton        ,VA,23661      ,US
+1932,C-B DALLAS/FT WORTH TX,9400 N Royal Ln     ,Irving         ,TX,75063      ,US
+2460,SASKATOON SK,3911 Millar Ave     ,Saskatoon      ,SK,S7P 0C1    ,CN
+1940,C-B LITTLE ROCK VALUE ADD SVRS,3600 W 69th St      ,Little Rock    ,AR,72209      ,US
+1920,C-B OKLAHOMA CITY,4313 SW 21st St     ,Oklahoma City  ,OK,73108      ,US
+6337,US - CA - Van Nuys,16699 Roscoe Blvd   ,North Hills    ,CA,91343      ,US
+1017,US - NY - HAUPPAUGE - INDUSTRIAL,500 Prime Pl        ,Hauppauge      ,NY,11788      ,US
+7461,MS - RIVERSIDE AZ,10209 W. Roosevelt S,Avondale       ,AZ,85323      ,US
+2670,CASTLEGAR BC,2328  6Th Ave       ,Castlegar      ,BC,V1N 2W1    ,CN
+3615,CHARLOTTE NC,5521 Lakeview Dr    ,Charlotte      ,NC,28269      ,US
+1767,WEST OEM VIRTUAL,418 Aberdeen Rd     ,Hampton        ,VA,23661      ,US
+2770,VAL D'OR QUEBEC,1510 4 Ieme Rue     ,Val D'Or       ,QC,J9P 6X2    ,CN
+1965,"CSC SAN FRANCISCO, CA",2800 Mead Ave       ,Santa Clara    ,CA,95051      ,US
+5795,OKLAHOMA CITY OK,500 N Pennsylvania A,Oklahoma City  ,OK,73107      ,US
+3270,TOLEDO OH,6519 Fairfield Dr   ,Northwood      ,OH,43619      ,US
+2581,BREWS SUPPLY CALGARY,11195 42 St SE      ,Calgary        ,AB,T2C 0J9    ,CN
+1971,"CSC LOS ANGELES, CA",6251 Knott Ave      ,Buena Park     ,CA,90620      ,US
+6109,ANCHORAGE AK,5760 Silverado Way  ,Anchorage      ,AK,99518      ,US
+7853,BISMARCK ND,901 S 9th St        ,Bismarck       ,ND,58504      ,US
+2810,TORONTO ON CONSTR,475 Hood Rd         ,Markham        ,ON,L3R 0S8    ,CN
+1922,C-B RALEIGH,2205 Westinghouse Bl,Raleigh        ,NC,27604      ,US
+7534,US - NV - Sparks RENO NV,1161 E Glendale Ave ,Sparks         ,NV,89431      ,US
+7818,JACKSON MS UTILITY,187 Country Place PK,Pearl          ,MS,39208      ,US
+6102,"MOSES LAKE, WA GENIE",2233 6th Ave S      ,Seattle        ,WA,98134-2001 ,CN
+7658,FLOWERY BRANCH,4050 Enterprise Way ,Flowery Branch ,GA,30542      ,US
+2645,NANAIMO BC,1809 Fremont Rd     ,Nanaimo        ,BC,V9S 3H3    ,CN
+6216,US - CA - Sacramento - 1301 North Market Boulevard,1301 N Market Blvd  ,Sacramento     ,CA,95834      ,US
+3427,US-OK-OKLAHOMA CITY-P66,3400 S 7thÂ St      ,Ponca City     ,OK,74601      ,US
+7840,ATLANTA GA - UTILITY,7375 Graham Drive   ,Fairburn       ,GA,30213      ,US
+5568,BEAUMONT TX,3815 W Cardinal Dr  ,Beaumont       ,TX,77705      ,US
+6221,CONCORD CA,2500 Dean Lesher Dr ,Concord        ,CA,94520      ,US
+7809,PGH MANCHESTER DUQUESNE LGT,2515 Preble Ave     ,Pittsburgh     ,PA,15233      ,US
+5697,US-LA- LAFAYETTE PHILLIPS 66,200 Matrix Loop     ,Lafayette      ,LA,70507      ,US
+1924,C-B SPRINGFIELD,241 S Union Ave     ,Springfield    ,MO,65802      ,US
+7227,NIGERIA / CABINDA,7049 Brookhollow W D,Houston        ,TX,77040      ,US
+5104,US - IL - CHICAGO CONSTRUCTION IL,2401 Internationale ,Woodridge      ,IL,60517      ,US
+7540,"TUCSON, AZ",1665 E 22nd St      ,Tucson         ,AZ,85713      ,US
+1911,C-B LITTLE ROCK NATL/GOVT ACCT,3600 W 69th St      ,Little Rock    ,AR,72210      ,US
+1959,"CSC PHOENIX, AZ",3425 E Van Buren    ,Phoenix        ,AZ,85008      ,US
+1018,US - HI - HONOLULU/MAUI - INDUSTRIAL,1030 Mapunapuna Stre,Honolulu       ,HI,96819      ,US
+7499,M/S GROUP IMPORT DC SLS ELIM,353 N 44th Ave      ,Phoenix        ,AZ,85043      ,US
+5234,EVANSVILLE IN,401 S 3rd Ave       ,Evansville     ,IN,47708      ,US
+2216,LONGUEUIL PQ,4100 Place Java     ,Brossard       ,QC,J4Y 0C4    ,CN
+5837,US - MO - Kansas City,2301 E Truman Rd    ,Kansas City    ,MO,64127      ,US
+1948,C-B LITTLE ROCK DC ELIMINATION,3600 W 69th St      ,Little Rock    ,AR,72209      ,US
+5569,US-TX- CLUTE PHILLIPS 66,447 East Plantation ,Clute          ,TX,77531      ,US
+7880,MEMPHIS UTILITY,4477 Winchester Rd  ,Memphis        ,TN,38118      ,US
+7440,ELKHART IN,3701 Gallatin Way   ,Elkhart        ,IN,46514      ,US
+1947,C-B LITTLE ROCK CORP SALES,3600 W 69th St      ,Little Rock    ,AR,72209      ,US
+2330,OTTAWA ON,1660 Comstock Rd    ,Ottawa         ,ON,K1B 5L2    ,CN
+2515,GRAND PRAIRIE AB,12102 97 Ave        ,Grande Prairie ,AB,T8W 0J7    ,CN
+3415,US - OH - Dayton,2080 Winners Cir    ,Dayton         ,OH,45404      ,US
+1972,"CSC DETROIT, MI",33162 Sterling Ponds,Sterling Height,MI,48312      ,US
+1716,CSC EXPRESS,200 E Lies Rd       ,Carol Stream   ,IL,60188      ,US
+7672,HAMBY YOUNG PROJECTS,1245 Danner Dr      ,Aurora         ,OH,44202      ,US
+3225,DETROIT MI,33162 Sterling Ponds,Sterling Height,MI,48312      ,US
+7630,HAMMOND IN - EESCO,3550 179th St       ,Hammond        ,IN,46323      ,US
+1855,CSC WICHITA,1257 N Mosley St    ,Wichita        ,KS,67214      ,US
+5843,CENTRAL OEM VIRTUAL,4477 Winchester Rd  ,Memphis        ,TN,38118      ,US
+6438,US - UT - Salt Lake City - 3210 South 900 West,3210 S 900 W        ,Salt Lake City ,UT,84119      ,US
+2350,HAMILTON ON,1910 Barton St E    ,Hamilton       ,ON,L8H 2Y6    ,CN
+1901,C-B ATLANTA GA,700 Sigman Rd NE    ,Conyers        ,GA,30013      ,US
+7649,NEW BRIGHTON MN - EESCO,601 Lakeview Pt     ,New Brighton   ,MN,55112      ,US
+7396,DIST CTR ELIM - DALLAS TX,9400 N Royal Ln     ,Irving         ,TX,75063      ,US
+7144,NATIONAL BRANCH-WARRENDALE PA,185 Thorn Hill Rd   ,Warrendale     ,PA,15086      ,US
+5441,OMAHA NE,13535 F St          ,Omaha          ,NE,68137      ,US
+7434,TIFTON GA,255 Jordan Rd       ,Tifton         ,GA,31794      ,US
+5223,US - IN - Indianapolis - 1560 Indiana Drive,1560 Indiana Ave    ,Indianapolis   ,IN,46202      ,US
+7831,"DUKE WHV- GREENFIELD, IN",2718 Jannetides Blvd,Greenfield     ,IN,46140      ,US
+7392,DIST CTR ELIM - WARRENDALE PA,185 Thorn Hill Rd   ,Warrendale     ,PA,15086      ,US
+7601,MONROE LA - MURCO,201 Washington St   ,Monroe         ,LA,71201      ,US
+7843,LEXINGTON KY,1721 Fortune Ct     ,Lexington      ,KY,40509      ,US
+1053,"BISMARCK, ND - CONSTRUCTION",901 South 9th St.   ,Bismarck       ,ND,58504      ,US
+7423,MONROE NC,Industrial Ventures ,Monroe         ,NC,28110      ,US
+1344,US - NY - Cheektowaga - 120 Galleria Drive,120 Galleria Dr     ,Cheektowaga    ,NY,14225      ,US
+1967,"CSC ORLANDO, FL",1701 Boice Pond Rd  ,Orlando        ,FL,32837      ,US
+7854,SIOUX CITY IA,2501 E 3rd St       ,Sioux City     ,IA,51101      ,US
+5793,ODESSA TX,208 S Williams St   ,Odessa         ,TX,79763      ,US
+7653,US - MN - Duluth 4304 W. First Street,4304 W 1st St       ,Duluth         ,MN,55807      ,US
+1061,CINCINNATI OH - DUKE,6860 Ashfield Drive ,Blue Ash       ,OH,45242      ,US
+6712,BELRIDGE CA,20364 7th Standard R,Mckittrick     ,CA,93251      ,US
+1909,C-B LITTLE ROCK BRANCH OPS,3600 W 69th St      ,Little Rock    ,AR,72209      ,US
+6706,EL PASO TX,6510A Gtwy E        ,El Paso        ,TX,79905      ,US
+7441,MS CAROL STREAM IL,200 Lies Rd         ,Carol Stream   ,IL,60188      ,US
+6456,"ROCK SPRINGS, WY",31 Wilkins Peak Dr  ,Rock Springs   ,WY,82901      ,US
+7685,VALDOSTA GA - ACE,813 Gil Harbin Indus,Valdosta       ,GA,31603      ,US
+7680,DUKE GENERATION - FLORIDA,3881 Old Winter Gard,Orlando        ,FL,32805      ,US
+1978,"CSC INDIANAPOLIS, IN",1560 Indiana Ave    ,Indianapolis   ,IN,46202      ,US
+2335,KINGSTON ON,640 Cataraqui Woods ,Kingston       ,ON,K7P 2Y5    ,CN
+1985,"CSC CLEVELAND, OH",4741 Hinckley Indust,Cleveland      ,OH,44109      ,US
+1724,US - IL - CAROL STREAM MICROSOFT,200 Lies Road       ,Carol Stream   ,IL,60188      ,US
+5846,US - MO - St. Louis,2820 Market St      ,St. Louis      ,MO,63103      ,US
+3410,US - OH - Columbus - COLUMBUS OH,2256 City Gate Dr   ,Columbus       ,OH,43219      ,US
+2619,VANCOUVER BC,1055 Clarke Dr      ,Vancouver      ,BC,V5L 3K1    ,CN
+1961,"CSC CHARLOTTE, NC",5521 Lakeview Rd    ,Charlotte      ,NC,28269      ,US
+1966,"CSC DALLAS, TX",9400 N Royal Ln     ,Irving         ,TX,75063      ,US
+1921,C-B PHOENIX AZ,3425 E Van Buren    ,Phoenix        ,AZ,85008      ,US
+1979,"CSC TULSA, OK",13047 E 59th St     ,Tulsa          ,OK,74134      ,US
+3725,MOBILE AL,566 Beauregard St   ,Mobile         ,AL,36603      ,US
+7310,CHICAGO DC,200 E Lies Rd       ,Carol Stream   ,IL,60188      ,US
+7582,"RICHMOND, VA",12141 Wilfong Ct    ,Midlothian     ,VA,23112      ,US
+2390,SUDBURY ON,1010 Lorne St       ,Sudbury        ,ON,P3C 4R9    ,CN
+3605,ASHEVILLE NC,840 Riverside Dr    ,Asheville      ,NC,28804      ,US
+7394,DIST CTR ELIM - BYHALIA MS,7300 W Hwy 178      ,Byhalia        ,MS,38611      ,US
+1790,RECO - CINCINNATI,6860 Ashfield Dr    ,Blue Ash       ,OH,45242      ,US
+1933,C-B EL PASO,6510A Gtwy E        ,El Paso        ,TX,79905      ,US
+5570,US-MO-ST LOIUS PHILLIPS 66,2820 Market St      ,St. Louis      ,MO,63103      ,US
+2530,LLOYDMINSTER AB,5901 47 St          ,Lloydminster   ,AB,T9V 2G4    ,CN
+1798,ASSEMBLED SOLUTIONS MATERIAL MANAGEMENT,7049 Brookhollow W D,Houston        ,TX,77040      ,US
+7304,DIST CTR - BYHALIA MS,7300 W Hwy 178      ,Byhalia        ,MS,38611      ,US
+7635,ROCKFORD IL - EESCO,2869 Eastrock Dr    ,Rockford       ,IL,61109      ,US
+7557,"HOUSTON, TX",7049 Brookhollow W D,Houston        ,TX,77040      ,US
+1336,US - NY - Dewitt,6581 Townline Rd    ,East Syracuse  ,NY,13057      ,US
+1960,"CSC SAN ANTONIO, TX",306 E Nakoma St     ,San Antonio    ,TX,78216      ,US
+2450,REGINA SK,1902 Stock Rd       ,Regina         ,SK,S4N 5J3    ,CN
+2660,KELOWNA BC,101 - 2120 Leckie Pl,Kelowna        ,BC,V1Y 7W7    ,CN
+1981,"CSC PHILADELPHIA, PA",2505 Blvd of the Gen,Norristown     ,PA,19403      ,US
+7864,FAYETTEVILLE,3671 Wedington Dr   ,Fayetteville   ,AR,72702      ,US
+1930,C-B TULSA,13047 E 59th St     ,Tulsa          ,OK,74134      ,US
+6660,US - CO - Denver - 11198 E. 45th Avenue DENVER CO,11198 E 45th Ave    ,Denver         ,CO,80239      ,US
+1721,BECKLEY WV,256 Ragland Rd      ,Beckley        ,WV,25801      ,US
+2365,KITCHENER ON,10 Goodrich Dr      ,Kitchener      ,ON,N2C 0A6    ,CN
+5680,US - TX - San Antonio - 306 East Nakoma Drive,306 E Nakoma St     ,San Antonio    ,TX,78216      ,US
+7148,"NATIONAL BRANCH - CHICAGO, IL",200 E Lies Rd       ,Carol Stream   ,IL,60188      ,US
+1886,"CSC PORTLAND, OR",2345 NW 31st Ave    ,Portland       ,OR,97210      ,US
+1973,"CSC EDISON, NJ",104 Sunfield Ave    ,Edison         ,NJ,08837      ,US
+1116,BOSTON-METRO WESCO CCA,35 Otis St          ,Westboro       ,MA,01581      ,US
+7890,"SANTA FE SPRINGS, CA - UTILITY",9306 Sorensen Ave   ,Santa Fe Spring,CA,90670      ,US

@@ -1,0 +1,73 @@
+Item,Qty On Hand,Location,Date,On Hand Qty,Branch_Name,Address,City,State,Zip,Country,Category,Price_ea,On Hand Value
+RT2-00-MINIBK2-FSET,160,1201 Arlington FG,2025-05-01,160,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,MINI,$4.51,$721.6
+RT2-00-MINIBK2-FSET,317,1501 Orlando FG,2025-05-01,317,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,MINI,$4.51,$1429.67
+RT2-00-MINIBK2-FSET,9,1601 Tampa FG,2025-05-01,9,Soligent Tampa Bay Branch,"9220 Palm River Road, Suite 104",Tampa,FL,33619,USA,MINI,$4.51,$40.59
+RT2-00-MINIBK2-FSET,36,451 Finished Goods Sac - Bell Ave,2025-05-01,36,Soligent Sacramento Distribution Center,1790 Bell Ave Suite #125,Sacramento,CA,95838,USA,MINI,$4.51,$162.36
+RT2-00-MINIBK2-FSET,130,521 Millstone FG,2025-05-01,130,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,MINI,$4.51,$586.3
+RT3-00-AXBK,11,521 Millstone FG,2025-05-01,11,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$4.09,$44.99
+RT3-02-UM-30,144,521 Millstone FG,2025-05-01,144,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1330.56
+RT3-02-UMFS30,112,521 Millstone FG,2025-05-01,112,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1034.88
+RT3-01-UE-30,148,521 Millstone FG,2025-05-01,148,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1367.52
+RT3-01-UES30,48,521 Millstone FG,2025-05-01,48,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$15.31,$734.88
+RT3-01-UEFS30,64,521 Millstone FG,2025-05-01,64,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$591.36
+RT2-04-SD5-60,9,1201 Arlington FG,2025-05-01,9,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,Screws,$0.43,$3.87
+RT2-04-SD5-60,61,1501 Orlando FG,2025-05-01,61,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,Screws,$0.43,$26.23
+RT2-04-SD5-60,290,1701 Ft. Lauderdale FG,2025-05-01,290,Soligent Fort Lauderdale Branch,1604 NW 23rd Ave,Fort Lauderdale,FL,33311,USA,Screws,$0.43,$124.7
+RT2-04-SD5-60,2,411 Finished Goods - Fontana,2025-05-01,2,Soligent Fontana Distribution Center,13112 Santa Ana Ave #A3,Fontana,CA,92337,USA,Screws,$0.43,$0.86
+RT2-04-SD5-60,8,521 Millstone FG,2025-05-01,8,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,Screws,$0.43,$3.44
+RT2-00-MINIBK2-FSET,160,1201 Arlington FG,2025-06-01,160,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,MINI,$4.51,$721.6
+RT2-00-MINIBK2-FSET,277,1501 Orlando FG,2025-06-01,277,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,MINI,$4.51,$1249.27
+RT2-00-MINIBK2-FSET,9,1601 Tampa FG,2025-06-01,9,Soligent Tampa Bay Branch,"9220 Palm River Road, Suite 104",Tampa,FL,33619,USA,MINI,$4.51,$40.59
+RT2-00-MINIBK2-FSET,36,451 Finished Goods Sac - Bell Ave,2025-06-01,36,Soligent Sacramento Distribution Center,1790 Bell Ave Suite #125,Sacramento,CA,95838,USA,MINI,$4.51,$162.36
+RT2-00-MINIBK2-FSET,115,521 Millstone FG,2025-06-01,115,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,MINI,$4.51,$518.65
+RT3-00-AXBK,9,521 Millstone FG,2025-06-01,9,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$4.09,$36.81
+RT3-02-UM-30,139,521 Millstone FG,2025-06-01,139,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1284.36
+RT3-02-UMFS30,112,521 Millstone FG,2025-06-01,112,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1034.88
+RT3-01-UE-30,148,521 Millstone FG,2025-06-01,148,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1367.52
+RT3-01-UES30,48,521 Millstone FG,2025-06-01,48,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$15.31,$734.88
+RT3-01-UEFS30,64,521 Millstone FG,2025-06-01,64,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$591.36
+RT2-04-SD5-60,9,1201 Arlington FG,2025-06-01,9,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,Screws,$0.43,$3.87
+RT2-04-SD5-60,21,1501 Orlando FG,2025-06-01,21,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,Screws,$0.43,$9.03
+RT2-04-SD5-60,290,1701 Ft. Lauderdale FG,2025-06-01,290,Soligent Fort Lauderdale Branch,1604 NW 23rd Ave,Fort Lauderdale,FL,33311,USA,Screws,$0.43,$124.7
+RT2-04-SD5-60,2,411 Finished Goods - Fontana,2025-06-01,2,Soligent Fontana Distribution Center,13112 Santa Ana Ave #A3,Fontana,CA,92337,USA,Screws,$0.43,$0.86
+RT2-04-SD5-60,8,521 Millstone FG,2025-06-01,8,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,Screws,$0.43,$3.44
+RT2-00-MINIBK2-FSET,160,1201 Arlington FG,2025-07-01,160,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,MINI,$4.51,$721.6
+RT2-00-MINIBK2-FSET,264,1501 Orlando FG,2025-07-01,264,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,MINI,$4.51,$1190.64
+RT2-00-MINIBK2-FSET,9,1601 Tampa FG,2025-07-01,9,Soligent Tampa Bay Branch,"9220 Palm River Road, Suite 104",Tampa,FL,33619,USA,MINI,$4.51,$40.59
+RT2-00-MINIBK2-FSET,36,451 Finished Goods Sac - Bell Ave,2025-07-01,36,Soligent Sacramento Distribution Center,1790 Bell Ave Suite #125,Sacramento,CA,95838,USA,MINI,$4.51,$162.36
+RT2-00-MINIBK2-FSET,86,521 Millstone FG,2025-07-01,86,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,MINI,$4.51,$387.86
+RT3-00-AXBK,9,521 Millstone FG,2025-07-01,9,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$4.09,$36.81
+RT3-02-UM-30,139,521 Millstone FG,2025-07-01,139,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1284.36
+RT3-02-UMFS30,112,521 Millstone FG,2025-07-01,112,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1034.88
+RT3-01-UE-30,148,521 Millstone FG,2025-07-01,148,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1367.52
+RT3-01-UES30,48,521 Millstone FG,2025-07-01,48,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$15.31,$734.88
+RT3-01-UEFS30,64,521 Millstone FG,2025-07-01,64,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$591.36
+RT2-04-SD5-60,9,1201 Arlington FG,2025-07-01,9,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,Screws,$0.43,$3.87
+RT2-04-SD5-60,6,1501 Orlando FG,2025-07-01,6,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,Screws,$0.43,$2.58
+RT2-04-SD5-60,274,1701 Ft. Lauderdale FG,2025-07-01,274,Soligent Fort Lauderdale Branch,1604 NW 23rd Ave,Fort Lauderdale,FL,33311,USA,Screws,$0.43,$117.82
+RT2-04-SD5-60,2,411 Finished Goods - Fontana,2025-07-01,2,Soligent Fontana Distribution Center,13112 Santa Ana Ave #A3,Fontana,CA,92337,USA,Screws,$0.43,$0.86
+RT2-00-MINIBK2-FSET,160,1201 Arlington FG,2025-08-01,160,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,MINI,$4.51,$721.6
+RT2-00-MINIBK2-FSET,201,1501 Orlando FG,2025-08-01,201,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,MINI,$4.51,$906.51
+RT2-00-MINIBK2-FSET,33,451 Finished Goods Sac - Bell Ave,2025-08-01,33,Soligent Sacramento Distribution Center,1790 Bell Ave Suite #125,Sacramento,CA,95838,USA,MINI,$4.51,$148.83
+RT2-00-MINIBK2-FSET,57,521 Millstone FG,2025-08-01,57,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,MINI,$4.51,$257.07
+RT3-00-AXBK,4,521 Millstone FG,2025-08-01,4,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$4.09,$16.36
+RT3-02-UM-30,139,521 Millstone FG,2025-08-01,139,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1284.36
+RT3-02-UMFS30,112,521 Millstone FG,2025-08-01,112,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1034.88
+RT3-01-UE-30,108,521 Millstone FG,2025-08-01,108,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$997.92
+RT3-01-UES30,48,521 Millstone FG,2025-08-01,48,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$15.31,$734.88
+RT3-01-UEFS30,64,521 Millstone FG,2025-08-01,64,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$591.36
+RT2-04-SD5-60,9,1201 Arlington FG,2025-08-01,9,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,Screws,$0.43,$3.87
+RT2-04-SD5-60,277,1501 Orlando FG,2025-08-01,277,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,Screws,$0.43,$119.11
+RT2-04-SD5-60,2,411 Finished Goods - Fontana,2025-08-01,2,Soligent Fontana Distribution Center,13112 Santa Ana Ave #A3,Fontana,CA,92337,USA,Screws,$0.43,$0.86
+RT2-00-MINIBK2-FSET,147,1201 Arlington FG,2025-09-01,147,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,MINI,$4.51,$662.97
+RT2-00-MINIBK2-FSET,96,1501 Orlando FG,2025-09-01,96,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,MINI,$4.51,$432.96
+RT2-00-MINIBK2-FSET,33,451 Finished Goods Sac - Bell Ave,2025-09-01,33,Soligent Sacramento Distribution Center,1790 Bell Ave Suite #125,Sacramento,CA,95838,USA,MINI,$4.51,$148.83
+RT2-00-MINIBK2-FSET,32,521 Millstone FG,2025-09-01,32,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,MINI,$4.51,$144.32
+RT3-02-UM-30,139,521 Millstone FG,2025-09-01,139,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1284.36
+RT3-02-UMFS30,112,521 Millstone FG,2025-09-01,112,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$1034.88
+RT3-01-UE-30,108,521 Millstone FG,2025-09-01,108,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$997.92
+RT3-01-UES30,48,521 Millstone FG,2025-09-01,48,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$15.31,$734.88
+RT3-01-UEFS30,64,521 Millstone FG,2025-09-01,64,Soligent New Jersey Distribution Center,1 Debaun Road Suite 200,Millstone,NJ,8535,USA,APEX,$9.24,$591.36
+RT2-04-SD5-60,8,1201 Arlington FG,2025-09-01,8,Soligent Dallas Distribution Center,3996 Scientific Dr,Arlington,TX,76014,USA,Screws,$0.43,$3.44
+RT2-04-SD5-60,266,1501 Orlando FG,2025-09-01,266,Soligent Orlando Distribution Center,13643 S. Orange Ave,Orlando,FL,32824,USA,Screws,$0.43,$114.38
+RT2-04-SD5-60,2,411 Finished Goods - Fontana,2025-09-01,2,Soligent Fontana Distribution Center,13112 Santa Ana Ave #A3,Fontana,CA,92337,USA,Screws,$0.43,$0.86
