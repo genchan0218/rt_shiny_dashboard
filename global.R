@@ -18,7 +18,15 @@ source("Genki_Must_Haves_Optimized.R")
 
 Part_Number_List <- fread("Part_Number_List.csv")
 Sales_Map <- fread("Sales_Map.csv")
-All_POS <- fread("POS_Agg.csv")
+
+# Load POS_Agg once (was loaded twice before - line 21 and 51)
+POS_Agg <- fread("POS_Agg.csv")
+POS_Agg[, Price_ea := as.numeric(gsub("\\$", "", Price_ea))]
+POS_Agg[, Revenue := Price_ea * Qty]
+setDT(POS_Agg)
+
+# Create All_POS reference for backward compatibility
+All_POS <- POS_Agg
 
 # Drop original Description and join with Part_Number_List
 All_POS2 <- All_POS[, !"Description"]
@@ -48,10 +56,7 @@ Cooperdata <- left_join(Cooperdata, Sales_Map)
 
 Invoice_data <- fread("Invoice_data.csv")
 
-POS_Agg <- fread("POS_Agg.csv")
-POS_Agg[, Price_ea := as.numeric(gsub("\\$", "", Price_ea))]
-POS_Agg[, Revenue := Price_ea * Qty]
-setDT(POS_Agg)
+# POS_Agg already loaded above - no need to reload
 
 
 # DATA: Ohm Analytics and Installer Data ----

@@ -72,7 +72,37 @@ server <- function(input, output, session) {
     # Update previous selection for next comparison
     state_previous(current_selection)
   }, ignoreInit = TRUE, ignoreNULL = TRUE)
-  
+
+  # OBSERVER: Smart Year Selection for Monthly View ----
+  # Automatically selects appropriate years when monthly view is toggled
+  # - Before July: Select 2 most recent years
+  # - July or after: Select only current year (based on most recent data date)
+  observeEvent(input$view_toggle, {
+    if (!is.null(input$view_toggle) && input$view_toggle == TRUE) {
+      # Monthly view activated - apply smart year filtering
+
+      # Find most recent date in the data
+      most_recent_date <- max(POS_Agg$Date, na.rm = TRUE)
+      most_recent_month <- lubridate::month(most_recent_date)
+      most_recent_year <- lubridate::year(most_recent_date)
+
+      # Get all available years
+      all_years <- sort(unique(lubridate::year(POS_Agg$Monthly)), decreasing = TRUE)
+
+      # Select years based on month
+      if (most_recent_month < 7) {
+        # Before July: Select 2 most recent years
+        selected_years <- head(all_years, 2)
+      } else {
+        # July or after: Select only the most recent year
+        selected_years <- most_recent_year
+      }
+
+      # Update the year selectInput
+      updateSelectizeInput(session, "year", selected = selected_years)
+    }
+  }, ignoreInit = FALSE)
+
   output$loggedinUI0 <- renderUI({
     req(credentials()$user_auth)
     
@@ -123,7 +153,17 @@ server <- function(input, output, session) {
             column(2,
                    selectizeInput("year", "Year:",
                                   choices = sort(unique(as.integer(lubridate::year(NewDT3$Monthly)))),
-                                  selected = c(2024, 2025),
+                                  selected = {
+                                    # Smart default selection based on most recent date
+                                    most_recent_date <- max(POS_Agg$Date, na.rm = TRUE)
+                                    most_recent_month <- lubridate::month(most_recent_date)
+                                    all_years <- sort(unique(lubridate::year(POS_Agg$Monthly)), decreasing = TRUE)
+                                    if (most_recent_month < 7) {
+                                      head(all_years, 2)  # Before July: 2 most recent years
+                                    } else {
+                                      head(all_years, 1)  # July or after: only current year
+                                    }
+                                  },
                                   multiple = TRUE)
             ),
             column(2,
