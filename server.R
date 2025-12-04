@@ -2848,22 +2848,9 @@ server <- function(input, output, session) {
                fill = "State (Stacked Bar)",
                color = "State (Line)") +
           theme(axis.text.x = element_text(angle = 45, hjust = 1))
-        plotly_obj <- ggplotly(p, tooltip = "text")
-        ay <- list(
-          tickfont = list(size = 11.7),
-          titlefont = list(size = 14.6),
-          overlaying = "y",
-          nticks = 5,
-          side = "right",
-          title = "Installed (Kw)"
-        )
-        plotly_obj %>%
-          add_lines(x = ~merged_data$Year_Qtr,
-                    y = ~merged_data$installation_kpi,
-                    name = "Installed (Kw)",
-                    yaxis = "y2",
-                    showlegend = TRUE) %>%
-          layout(yaxis2 = ay)
+        # Convert to plotly and return
+        # The plot already has both bar (Revenue) and line (installation KPI) from ggplot
+        ggplotly(p, tooltip = "text")
       } else {
         setnames(ohm_filtered, if(!is.null(input$filter_metric) && input$filter_metric=="Kw"){input$filter_metric}else{"PC"} , "installation_kpi")
         ggplotly(ggplot(ohm_filtered) +
@@ -2885,7 +2872,8 @@ server <- function(input, output, session) {
     req(input$selected_installer)
     contacts_data %>%
       filter(Contractor_Name == input$selected_installer) %>%
-      select(Name, Position, Email, Phone)
+      select(Name, Position, Email, Phone) %>%
+      distinct()  # Remove duplicate contact entries
   })
   
   ################################### File Download for Yukiko ###############################################
